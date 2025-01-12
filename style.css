@@ -8,6 +8,7 @@ body {
     display:flex;
     flex-direction:column;
     background-image: url("images/background.jpg");
+    background-size: autor;
 }
 img {
     border-radius: 40%;
