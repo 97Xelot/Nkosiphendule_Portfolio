@@ -9,7 +9,7 @@ body {
     flex-direction:column;
     background-image: url("images/background.jpg");
     background-size: 150px 50px;
-    background-repeat: no-repeat
+    background-repeat: no-repeat;
 }
 img {
     border-radius: 40%;
