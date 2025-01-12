@@ -8,7 +8,7 @@ body {
     display:flex;
     flex-direction:column;
     background-image: url("images/background.jpg");
-    background-size: 300px 100px;
+    background-size: 150px 50px;
 }
 img {
     border-radius: 40%;
