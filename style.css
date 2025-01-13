@@ -9,6 +9,15 @@ body {
     background-repeat: no-repeat;
 
 }
+#skills {
+    background-color: sienna;
+    border-radius: 05%;
+    padding: 2%;
+}
+#about {
+    background-color: darkslategray;
+    opacity: 0.9;
+}
 img {
     margin: 50px auto auto auto;
     border-radius: 10%;
@@ -78,10 +87,10 @@ header {
     gap: 20vw;
     text-align: center;
 }
-#contact{
+/*#contact{
     padding-top: 03%;
     padding-left: initial;  
-}
+}*/
 nav ul {
     list-style: none;
 }
@@ -113,12 +122,18 @@ ul {
     list-style:none;
     padding:inherit;
 }
-table{
+table {
+    border:none;
     padding-top: 5%;
+    background-image: linear-gradient(rgba(215, 254, 245, 8), rgba(255, 255, 255, 0.5)), url(https://img.freepik.com/free-photo/collage-customer-experience-concept_23-2149367130.jpg?t=st=1736774820~exp=1736778420~hmac=468f8d8c6c370c181bf0154b223d8843eab59589c783e60e5ac3fefd75483348&w=996);
 }
 th {
     background-color: silver;
     color: navy;
+    border-bottom: double;
+}
+td {
+    color: black;
 }
 tr:hover {
     background-color: rgba(150, 212, 212, 0.4);
