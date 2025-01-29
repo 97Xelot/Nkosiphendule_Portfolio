@@ -80,6 +80,9 @@ button:active{
 button:hover{
     background:none;
 }
+button:focus{
+    background: none;
+}
 
 header {
     background: #333;
